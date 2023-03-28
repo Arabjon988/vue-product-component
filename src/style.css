@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container{
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+  padding: 0px 10px;
+}
+
+li{
+  list-style: none;
+}
